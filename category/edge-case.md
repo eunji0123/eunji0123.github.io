@@ -1,27 +1,9 @@
 ---
 layout: category
-title: Edge Case
+title: 2020-2 OSS Project
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+이 카테고리는 2020년 2학기 오픈소스소프트웨어실습 수업에서 진행하는 프로젝트에 관한 카테고리입니다.
+제가 속한 9조에서는 'Free Python Games' 프로젝트를 진행합니다.
+아래에 관련 포스팅이 나열되어 있으니 참고해주시기 바랍니다.
 
-```md
----
-layout: category
-title: My Category
----
-```
-
-Or ...
-
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
