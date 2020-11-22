@@ -5,9 +5,5 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  Hi! I'm Eunji Lee, a student developer. I'm currently participating in OSS project at SKKU :)
 </p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
